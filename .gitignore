@@ -1,0 +1,18 @@
+# Compiled binaries
+.vscode/
+syspulse
+*.out
+*.exe
+
+# Object files
+*.o
+
+# Debug files
+*.dSYM/
+
+# Editor settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

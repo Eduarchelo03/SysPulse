@@ -1,7 +1,7 @@
 # ⚡ SysPulse
 
 <p align="center">
-  <strong>Lightweight Linux device health and telemetry utility written in C.</strong>
+  <strong>SysPulse is a lightweight Linux device health and system monitoring utility written in C.</strong>
 </p>
 
 <p align="center">
